@@ -1,0 +1,93 @@
+#titulo{
+    background-color: hsl(0, 0%, 0%);
+   }
+
+   h1 {
+    Color: rgb(9, 201, 41) ;
+    font-family: 'Poppins', 'swap';
+    font-weight: 900;
+    font-size: 5rem;
+    line-height: 1.2;
+   }
+   h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 1.5;
+   }
+
+   h3 {
+       COLOR: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+h4 {
+    COLOR: rgb(255, 255, 255);
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 500;
+ font-size: 1.5rem;
+ line-height: 1.5;
+}
+
+.px-4 {
+    COLOR: rgb(0, 0, 0);
+ font-family: 'Montserrat', sans-serif;
+}
+
+body {
+	
+	margin: 0;
+	text-align: center;
+
+}
+
+   .container-fluid{
+    padding: 3% 15%;
+   }
+
+   body{
+    font-family: 'Montserrat', sans-serif;
+   }
+
+   .navbar-brand{
+       COLOR: WHITE;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+   }
+   .navbar {
+    padding-bottom: 0 0 4.5rem;
+   }
+   .nav-item {
+    padding: 0 18px;
+   }
+   .nav-link {
+       COLOR:rgb(9, 201, 41);
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light', sans-serif;
+    font-weight: 100;
+   }
+
+   .download-button {
+    margin: 5% 3% 5% 0;
+   }
+   .title-image{
+    width: 60%;
+    align-content: LEFT;
+   }
+
+   .form-control me-2{
+    align-items: left;
+   }
+
+   .btn btn-outline-success{
+    align-items: left;
+   }
+ .info{
+    background-color: hsl(0, 0%, 0%);
+ }
+ a{
+	color:rgb(9, 201, 41);
+}
